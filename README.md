@@ -1,1 +1,1 @@
-Nueva Modificación del proyecto Master cone este Comentario "Didier Rubio.".
+Nueva Modificación del proyecto Master con este Comentario "Didier Rubio.".
